@@ -1,8 +1,6 @@
 data/raw/
 data/processed
+models/
 venv/
 .DS_Store
 .streamlit
-models/*.pkl
-models/*.keras
-models/*.h5
