@@ -226,6 +226,11 @@ Our tuned model catches **53% of patients who will be readmitted**
 ```bash
 git clone https://github.com/analyst-ted/hospital-readmission-prediction.git
 cd hospital-readmission-prediction
+
+> **Note:** Raw and processed data files are not included in this 
+> repository due to size constraints. Download the dataset from 
+> [UCI ML Repository](https://archive.ics.uci.edu/dataset/296/diabetes+130-us+hospitals+for+years+1999-2008) 
+> and place it in `data/raw/` before running the notebooks.
 ```
 
 ### 2. Create Virtual Environment
