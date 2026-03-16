@@ -3,3 +3,6 @@ data/processed
 venv/
 .DS_Store
 .streamlit
+models/*.pkl
+models/*.keras
+models/*.h5
