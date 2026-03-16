@@ -5,6 +5,9 @@
 ![Streamlit](https://img.shields.io/badge/App-Streamlit-red)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
+🔗 **Live App:** https://hospital-readmission-prediciton-6aq6u3tn65eljkbrtga6zq.streamlit.app
+
+
 A machine learning system that predicts whether a diabetic patient 
 will be readmitted to hospital within 30 days of discharge — 
 enabling early intervention and reducing preventable readmissions.
