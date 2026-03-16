@@ -1,6 +1,12 @@
+# Model binary files
+models/*.pkl
+
+# Data files
 data/raw/
-data/processed
-models/
-venv/
+data/processed/
+
+# Mac system files
 .DS_Store
-.streamlit
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
