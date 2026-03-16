@@ -23,8 +23,9 @@ model, scaler, threshold = load_artifacts()
 # ─── Load Feature Names ───────────────────────────────────────
 @st.cache_data
 def load_feature_names():
-    X_train = pd.read_csv('data/processed/X_train.csv')
-    return X_train.columns.tolist()
+    import json
+    with open('models/feature_names.json', 'r') as f:
+        return json.load(f)
 
 feature_names = load_feature_names()
 
