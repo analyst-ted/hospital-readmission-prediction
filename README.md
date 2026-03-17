@@ -5,7 +5,7 @@
 ![Streamlit](https://img.shields.io/badge/App-Streamlit-red)
 ![Status](https://img.shields.io/badge/Status-Complete-brightgreen)
 
-🔗 **Live App:** https://hospital-readmission-prediciton-6aq6u3tn65eljkbrtga6zq.streamlit.app
+🔗 **Live App:** https://hospital-readmission-prediciton-arup-roy.streamlit.app
 
 
 A machine learning system that predicts whether a diabetic patient 
