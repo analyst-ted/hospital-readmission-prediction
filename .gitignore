@@ -7,3 +7,6 @@ data/processed/
 
 # Jupyter checkpoints
 .ipynb_checkpoints/
+
+#streamlit folder
+.streamlit/
